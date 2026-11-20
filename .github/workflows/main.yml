@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Lab 2: Scala, variant 1"
+git branch -M main
+git remote add origin https://github.com/r0serk/st85980-lab2.git
+git push -u origin main
